@@ -32,8 +32,9 @@ class AppTheme {
     appBarTheme: const AppBarTheme(
       backgroundColor: primaryColor,
       foregroundColor: Colors.white,
-      elevation: 0,
+      elevation: 2,
     ),
+    );
 // Add these padding constants
   static const double smallPadding = 8.0;
   static const double defaultPadding = 16.0;
