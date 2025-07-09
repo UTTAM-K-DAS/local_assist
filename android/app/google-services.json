@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "559664526518",
+    "project_id": "local-assist-4bbd3",
+    "storage_bucket": "local-assist-4bbd3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559664526518:android:dea75927e5b2ac3285e217",
+        "android_client_info": {
+          "package_name": "com.example.localassist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIAjn33jZ_1X0X-mnIf5vZ-IcMtNs7NU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
